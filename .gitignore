@@ -1,0 +1,21 @@
+# Dev-C++ 编译产物
+*.exe
+*.o
+*.obj
+*.a
+*.out
+a.out
+*.ilk
+*.pdb
+*.dSYM/
+
+# 截图等非源码文件
+*.png
+*.jpg
+*.jpeg
+
+# 编辑器/系统临时文件
+*~
+*.swp
+Thumbs.db
+desktop.ini
